@@ -4,7 +4,14 @@
   </tr>
   <tr>
     <td width="30%">
-<br>Техники Тест Дизайна для тестировщиков
+      
+<br>Тест Дизайн
+<br>Эквивалентные классы и граничные значения
+<br>Таблица принятия решений
+<br>Доменный анализ
+<br>Тестирование переходов и состояний
+<br>Попарное тестирование
+<br>Тестирование вариантов использования
 
   </td>
     <td width="70%">
@@ -18,11 +25,14 @@
   <tr>
     <td width="30%">
 
-<br>Тестирование ПО: Postman для тестирования API
+<br>Работа с запросами и ответами в Postman
+<br>Коллекции и переменные в Postman
+<br>Скрипты для автоматизации тестирования в Postman
+<br>Возможности скриптов в Postman
 
   </td>
     <td width="70%">
-      <img src="image/postman_for_api.png" width="100%" title="Тестирование ПО: Postman для тестирования API">
+      <img src="image/postman_for_api.png" width="100%" title="Postman">
     </td>
   </tr>
   
@@ -32,11 +42,17 @@
   <tr>
     <td width="30%">
 
-<br>Погружение в JavaScript: для начинающих
+<br>Основы JavaScript
+<br>Условные конструкции
+<br>Циклы
+<br>Функции
+<br>Объекты
+<br>Работа с примитивами
+<br>Массивы
 
   </td>
     <td width="70%">
-      <img src="image/js.png" width="100%" title="Погружение в JavaScript: для начинающих">
+      <img src="image/js.png" width="100%" title="JavaScript">
     </td>
   </tr>
   
@@ -46,7 +62,9 @@
   <tr>
     <td width="30%">
 
-<br>Тестирование ПО: Нагрузочное тестирование с помощью Jmeter
+<br>Assertion - проверка ответов в Jmeter
+<br>Тестирование API с помощью Jmeter
+<br>Jmeter PRO
 
   </td>
     <td width="70%">
@@ -60,11 +78,13 @@
   <tr>
     <td width="30%">
 
-<br>Автоматизация тестирования API в Postman для начинающих
+<br>Автоматизация API
+<br>Нагрузочное тестирование
+<br>Groovy
 
   </td>
     <td width="70%">
-      <img src="image/auto_postman.png" width="100%" title="Автоматизация тестирования API в Postman для начинающих">
+      <img src="image/auto_postman.png" width="100%" title="API в Postman">
     </td>
   </tr>
   
@@ -74,11 +94,17 @@
   <tr>
     <td width="30%">
 
-<br>Основы SQL
+<br>Простые SQL-запросы
+<br>Добавление, изменение, удаление
+<br>Создание таблиц
+<br>Индексы
+<br>Поиск текста
+<br>Многотабличные запросы (JOIN, UNION)
+<br>Вложенные запросы
 
   </td>
     <td width="70%">
-      <img src="image/sql.png" width="100%" title="Основы SQL">
+      <img src="image/sql.png" width="100%" title="SQL">
     </td>
   </tr>
   
@@ -88,11 +114,13 @@
   <tr>
     <td width="30%">
 
-<br>Jenkins в работе
+<br>Jenkins: Основы
+<br>Jenkins Pipeline
+<br>Groovy lang
 
   </td>
     <td width="70%">
-      <img src="image/jenkins.png" width="100%" title="Jenkins в работе">
+      <img src="image/jenkins.png" width="100%" title="Jenkins">
     </td>
   </tr>
 
@@ -102,11 +130,12 @@
   <tr>
     <td width="30%">
 
-<br>Gitlab в работе
+<br>Git & GitLab
+<br>GitLab: CI/CD
 
   </td>
     <td width="70%">
-      <img src="image/gitlab.png" width="100%" title="Gitlab в работе">
+      <img src="image/gitlab.png" width="100%" title="Gitlab">
     </td>
   </tr>
 
@@ -116,7 +145,9 @@
   <tr>
     <td width="30%">
 
-<br>Docker
+<br>Работа с контейнерами
+<br>Образы
+<br>Docker compose
 
   </td>
     <td width="70%">
@@ -130,11 +161,14 @@
   <tr>
     <td width="30%">
 
-<br>Администратор Kubernetes [Junior]
+<br>Kubernetes локально с k3s
+<br>Боевой кластер с kubespray
+<br>Жизненный цикл сервиса
+<br>Шаблонизация манифестов с Helm
 
   </td>
     <td width="70%">
-      <img src="image/kubernetes.png" width="100%" title="Администратор Kubernetes [Junior]">
+      <img src="image/kubernetes.png" width="100%" title="Kubernetes">
     </td>
   </tr>
   
