@@ -96,7 +96,7 @@
     </td>
   </tr>
 
-   <tr>
+  <tr>
     <th colspan="2" style="text-align:center;"><h3>Gitlab в работе</h3></th>
   </tr>
   <tr>
@@ -110,7 +110,7 @@
     </td>
   </tr>
 
-     <tr>
+  <tr>
     <th colspan="2" style="text-align:center;"><h3>Docker</h3></th>
   </tr>
   <tr>
@@ -124,7 +124,7 @@
     </td>
   </tr>
 
-     <tr>
+  <tr>
     <th colspan="2" style="text-align:center;"><h3>Администратор Kubernetes [Junior]</h3></th>
   </tr>
   <tr>
